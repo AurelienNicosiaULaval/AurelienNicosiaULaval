@@ -1,16 +1,19 @@
-## Hi there 👋
+# Salut, je suis Aurélien Nicosia ! 👋
 
-<!--
-**AurelienNicosiaULaval/AurelienNicosiaULaval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon espace GitHub. Passionné par la science des données et le développement logiciel, j'aime explorer de nouveaux outils et partager mes projets.
 
-Here are some ideas to get you started:
+## 🌱 À propos
+- 🎓 Chargé d'enseignement à l'Université Laval, où j'enseigne des cours en statistiques et en sciences des données.
+- 🔭 Je travaille actuellement sur des projets de machine learning et de visualisation de données.
+- 💬 N'hésitez pas à me contacter pour discuter d'intelligence artificielle, de Python ou de collaboration open source.
+- ✨ Toujours curieux d'apprendre de nouvelles technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Statistiques GitHub
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=AurelienNicosiaULaval&show_icons=true&theme=tokyonight)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=AurelienNicosiaULaval&layout=compact&theme=tokyonight)
+
+## 📫 Me contacter
+Vous pouvez me retrouver sur [GitHub](https://github.com/AurelienNicosiaULaval) ou sur [LinkedIn](https://www.linkedin.com).
+
+Merci de votre visite et bonne exploration ! 🚀
+
