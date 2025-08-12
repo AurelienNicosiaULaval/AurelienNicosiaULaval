@@ -4,7 +4,7 @@ Bienvenue sur mon espace GitHub. Passionné par la science des données, j'aime 
 
 ## 🌱 À propos
 - 🎓 Chargé d'enseignement à l'Université Laval, où j'enseigne des cours en statistiques et en sciences des données.
-- 🔭 Je travaille actuellement sur des projets de machine learning et de visualisation de données.
+- 🔭 Je travaille actuellement sur des projets de science de données et de visualisation.
 - 💬 N'hésitez pas à me contacter pour discuter d'intelligence artificielle, de R ou de collaboration open source.
 - ✨ Toujours curieux d'apprendre de nouvelles technologies.
 
