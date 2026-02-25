@@ -2,12 +2,12 @@
 
 [Version anglaise ↓](#english-version) · [English version ↓](#english-version)
 
-[![Université Laval](https://img.shields.io-badge/Affiliation-Universit%C3%A9%20Laval-blue)](#)
-[![ORCID](https://img.shields.io-badge/ORCID-0000--0002--0974--9988-green?logo=orcid)](https://orcid.org/0000-0002-0974-9988)
-![Open Science](https://img.shields.io-badge/Open%20Science-Committed-brightgreen)
-![Reproducible Research](https://img.shields.io-badge/Reproducible%20Research-Yes-blue)
-![R](https://img.shields.io-badge/R-Statistical%20Computing-276DC3?logo=r)
-![Quarto](https://img.shields.io-badge/Quarto-Dynamic%20Documents-39729E?logo=quarto)
+[![Université Laval](https://img.shields.io/badge/Affiliation-Universite%20Laval-blue)](https://www.ulaval.ca/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0974--9988-green?logo=orcid)](https://orcid.org/0000-0002-0974-9988)
+![Open Science](https://img.shields.io/badge/Open%20Science-Committed-brightgreen)
+![Reproducible Research](https://img.shields.io/badge/Reproducible%20Research-Yes-blue)
+![R](https://img.shields.io/badge/R-Statistical%20Computing-276DC3?logo=r)
+![Quarto](https://img.shields.io/badge/Quarto-Dynamic%20Documents-39729E?logo=quarto)
 
 ---
 
