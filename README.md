@@ -1,4 +1,4 @@
-# Aurélien Nicosia ⚜️
+# Aurélien Nicosia 
 
 [Version anglaise ↓](#english-version) · [English version ↓](#english-version)
 
