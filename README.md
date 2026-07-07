@@ -11,14 +11,14 @@
 
 Chargé d'enseignement en mathématiques et statistiques à l'Université Laval, je développe un écosystème ouvert de recherche, de logiciels scientifiques et de ressources pédagogiques en statistique computationnelle, science des données reproductible et programmation R.
 
-Mon travail relie méthodes statistiques, packages R, dépôts de reproduction, jeux de données québécois, applications interactives et enseignement de la science des données.
+Mon travail relie méthodes statistiques, packages R, dépôts de recherche reproductible, jeux de données québécois, applications interactives et enseignement de la science des données.
 
 ## Axes
 
 - Estimation de densité et détection d'anomalies
 - Statistique circulaire et directionnelle
 - Modélisation du mouvement, HMM, SSF et validation générative
-- Interprétation statistique et IA
+- Interprétation statistique assistée par IA
 - Pédagogie statistique ouverte et science des données reproductible
 
 ## Projets phares
@@ -28,8 +28,8 @@ Mon travail relie méthodes statistiques, packages R, dépôts de reproduction, 
 | [GLBFP](https://github.com/AurelienNicosiaULaval/GLBFP) | Estimation de densité par General Linear Blend Frequency Polygon |
 | [ggcircular](https://github.com/AurelienNicosiaULaval/ggcircular) | Visualisation de données circulaires et directionnelles avec ggplot2 |
 | [CircularRegression](https://github.com/AurelienNicosiaULaval/CircularRegression) | Régression circulaire-linéaire pour données directionnelles |
-| [Validation-SSF](https://github.com/AurelienNicosiaULaval/Validation-SSF) | Validation générative de modèles de sélection de pas |
-| [gmov](https://github.com/AurelienNicosiaULaval/gmov) | Diagnostics génératifs pour modèles SSF et iSSF |
+| [Validation-SSF](https://github.com/AurelienNicosiaULaval/Validation-SSF) | Validation générative de fonctions de sélection de pas |
+| [gmov](https://github.com/AurelienNicosiaULaval/gmov) | Validation et diagnostics génératifs pour modèles SSF et iSSF |
 | [donnees-bleues](https://github.com/AurelienNicosiaULaval/donnees-bleues) | Jeux de données québécois pour l'enseignement de la statistique |
 | [tutorizeR](https://github.com/AurelienNicosiaULaval/tutorizeR) | Conversion de documents R Markdown et Quarto en tutoriels interactifs |
 | [contextR](https://github.com/AurelienNicosiaULaval/contextR) | Projet émergent d'interprétation contextuelle d'analyses statistiques |
@@ -57,7 +57,7 @@ flowchart LR
 
 - Site personnel : <https://aureliennicosiaulaval.github.io/web_site/>
 - ORCID : <https://orcid.org/0000-0002-0974-9988>
-- LinkedIn : <https://ca.linkedin.com/in/aur%C3%A9lien-nicosia-6a52487b/>
+- LinkedIn : <https://www.linkedin.com/in/aur%C3%A9lien-nicosia-6a52487b/>
 
 ---
 
@@ -65,7 +65,7 @@ flowchart LR
 
 ## English version
 
-Lecturer in Mathematics and Statistics at Université Laval, I develop an open ecosystem of research, scientific software and teaching resources in computational statistics, reproducible data science and R programming.
+I am a Lecturer in Mathematics and Statistics at Université Laval, developing an open ecosystem of research, scientific software and teaching resources in computational statistics, reproducible data science and R programming.
 
 My work connects statistical methods, R packages, reproducible research repositories, Québec teaching datasets, interactive applications and data science education.
 
@@ -74,7 +74,7 @@ My work connects statistical methods, R packages, reproducible research reposito
 - Density estimation and anomaly detection
 - Circular and directional statistics
 - Movement modelling, HMMs, SSFs and generative validation
-- Statistical interpretation and AI
+- AI-assisted statistical interpretation
 - Open statistical education and reproducible data science
 
 ## Featured projects
@@ -84,8 +84,8 @@ My work connects statistical methods, R packages, reproducible research reposito
 | [GLBFP](https://github.com/AurelienNicosiaULaval/GLBFP) | Density estimation via General Linear Blend Frequency Polygon |
 | [ggcircular](https://github.com/AurelienNicosiaULaval/ggcircular) | ggplot2 extension for circular and directional data |
 | [CircularRegression](https://github.com/AurelienNicosiaULaval/CircularRegression) | Circular-linear regression for directional data |
-| [Validation-SSF](https://github.com/AurelienNicosiaULaval/Validation-SSF) | Generative validation of step-selection models |
-| [gmov](https://github.com/AurelienNicosiaULaval/gmov) | Generative diagnostics for SSF and iSSF models |
+| [Validation-SSF](https://github.com/AurelienNicosiaULaval/Validation-SSF) | Generative validation of step-selection functions |
+| [gmov](https://github.com/AurelienNicosiaULaval/gmov) | Generative validation and diagnostics for SSF and iSSF models |
 | [donnees-bleues](https://github.com/AurelienNicosiaULaval/donnees-bleues) | Québec teaching datasets for statistics education |
 | [tutorizeR](https://github.com/AurelienNicosiaULaval/tutorizeR) | Conversion of R Markdown and Quarto documents into interactive tutorials |
 | [contextR](https://github.com/AurelienNicosiaULaval/contextR) | Emerging project for contextual interpretation of statistical analyses |
@@ -101,4 +101,4 @@ My work connects statistical methods, R packages, reproducible research reposito
 
 - Website: <https://aureliennicosiaulaval.github.io/web_site/>
 - ORCID: <https://orcid.org/0000-0002-0974-9988>
-- LinkedIn: <https://ca.linkedin.com/in/aur%C3%A9lien-nicosia-6a52487b/>
+- LinkedIn: <https://www.linkedin.com/in/aur%C3%A9lien-nicosia-6a52487b/>
