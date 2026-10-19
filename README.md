@@ -56,6 +56,7 @@ flowchart LR
 ## Liens
 
 - Site personnel : <https://aureliennicosiaulaval.github.io/web_site/>
+- Packages R : <https://aureliennicosiaulaval.r-universe.dev>
 - ORCID : <https://orcid.org/0000-0002-0974-9988>
 - LinkedIn : <https://www.linkedin.com/in/aur%C3%A9lien-nicosia-6a52487b/>
 
@@ -100,5 +101,6 @@ My work connects statistical methods, R packages, reproducible research reposito
 ## Links
 
 - Website: <https://aureliennicosiaulaval.github.io/web_site/>
+- R packages: <https://aureliennicosiaulaval.r-universe.dev>
 - ORCID: <https://orcid.org/0000-0002-0974-9988>
 - LinkedIn: <https://www.linkedin.com/in/aur%C3%A9lien-nicosia-6a52487b/>
